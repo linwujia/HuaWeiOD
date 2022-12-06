@@ -91,11 +91,11 @@ public class Main {
 
 一阵霹雳巴拉的操作下来，代码写完了，自测通过，然后开始开心的提交代码
 
-![测试结果](images\第一题测试结果1.png)
+![测试结果](https://github.com/linwujia/HuaWeiOD/blob/master/%E5%8D%8E%E4%B8%BAOD%E6%9C%BA%E8%80%83/images/%E7%AC%AC%E4%B8%80%E9%A2%98%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C1.png)
 
 接下来就是牛客网显示测试用例只有33.xx%通过，郁闷了，接下来就是在本地IDE随便输了，盲测，结果发现
 
-![自测结果](images\第一题自测2.png)
+![自测结果](https://github.com/linwujia/HuaWeiOD/blob/master/%E5%8D%8E%E4%B8%BAOD%E6%9C%BA%E8%80%83/images/%E7%AC%AC%E4%B8%80%E9%A2%98%E8%87%AA%E6%B5%8B3.png)
 
 哦豁，接下来就是本地IDE调试，发现最后一个单词fine，后面没有空格，也没有标点字符，所以就没有添加到字符串容器中了，接下来继续修改。
 
@@ -145,7 +145,7 @@ public class Main {
 
 继续本地自测, 自测都通过了，重新复制到牛客网，提交，这下测试用例全部通过，开始第二题（花了半个小时了）
 
-![本地自测](images\第一题自测3.png)
+![本地自测](https://github.com/linwujia/HuaWeiOD/blob/master/%E5%8D%8E%E4%B8%BAOD%E6%9C%BA%E8%80%83/images/%E7%AC%AC%E4%B8%80%E9%A2%98%E8%87%AA%E6%B5%8B3.png)
 
 
 
@@ -379,7 +379,7 @@ public class Main {
 
 ​		第二个收到招聘方微信，机考分数400分，后面就是提交资料，然后等待面试了。
 
-
+![机考分数](F:\workspace\HuaWeiOD\华为OD机考\images\机考分数.png)
 
 后记：可能这些对于大佬来说，觉得 so easy，本人也只是记录一下，同时希望能帮助到别人。
 
