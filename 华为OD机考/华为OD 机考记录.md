@@ -379,7 +379,7 @@ public class Main {
 
 ​		第二个收到招聘方微信，机考分数400分，后面就是提交资料，然后等待面试了。
 
-![机考分数](F:\workspace\HuaWeiOD\华为OD机考\images\机考分数.png)
+![机考分数](https://github.com/linwujia/HuaWeiOD/blob/master/%E5%8D%8E%E4%B8%BAOD%E6%9C%BA%E8%80%83/images/%E6%9C%BA%E8%80%83%E5%88%86%E6%95%B0.png)
 
 后记：可能这些对于大佬来说，觉得 so easy，本人也只是记录一下，同时希望能帮助到别人。
 
